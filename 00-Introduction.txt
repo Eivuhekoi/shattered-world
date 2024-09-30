@@ -84,8 +84,8 @@ or other thing that may at some point become obselete. As of the time of
 writing this, the plain text format (.txt) is almost universally accepted
 and I do not expect it to change anytime soon, and as plain text doesn't
 rely on formatting in anyway (not even the simple ways of markdown or other
-markup languages) and thus no software for rendering such formats is needed.
-Thus the hope of utilizing plain text as my default format is that nobody
+markup languages) no software for rendering such formats is needed. Thus
+the hope of utilizing plain text as my default format is that nobody
 will be unable to view the content regarless of the device they are using.
 Furthermore, I hope that the choice of utilizing local files instead of
 something hosted on a website is able to circumvent difficulties in:
