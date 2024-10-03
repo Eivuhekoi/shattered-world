@@ -1,0 +1,12 @@
+= Licenses =
+
+== Writings ==
+
+Asénuve Nakapa (A Shattered World) © 2021 by Ikoinufe Eivuhekoi is licensed
+under Creative Commons Attribution-ShareAlike 4.0 International. To view a
+copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
+
+== Code ==
+
+All code in A Shattered World is licensed under the GNU General Public
+License version 3 (or later) as published by the Free Software Foundation.

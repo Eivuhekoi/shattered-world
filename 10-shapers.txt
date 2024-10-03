@@ -21,12 +21,12 @@ another of these known shapers is explicitly lacking a physical form at all
 
 Just like with their physiology, shapers do not share a singular set of
 motives and behaviours. Some, like Puje, wish to shape reality as they
-see fit, while others, like Veteje, seem to treat truly care about the
-people of the worlds they arrive in. Shapers seem to be at least
+see fit, while others, like Veteje, seem to treat truly care about
+the people of the worlds they arrive in. Shapers seem to be at least
 knowledgeable about the existance of other shapers, and sometimes this can
 manifest in a purposefully tampering with another shaper's creations, as
-happened with Vanahai and the Followers of the Old-Ones just before the
-Wanderish Civil war, just before the Shattering. Still it is unknown if
+happened with Vanahai and the Followers of the Old-Ones just before
+the Wanderish Civil war, just before the Shattering. Still it is unknown if
 Vanahai's involvement was coincidence or if shapers do actually want to mess
 with the creations of other shapers. Still, the behaviour of Veteje might
 indicate that the latter might be the case, although it does not explain
@@ -36,6 +36,10 @@ why.
 == Known Shapers ==
 
 === Puje, the First ===
+
+Puje is the first of the shapers known to have arrived into the world of
+Nakapa, and arguably the one responsible for sending the world down the path
+of becoming what it is now.
 
 === Veteje, the Benevolent ===
 
