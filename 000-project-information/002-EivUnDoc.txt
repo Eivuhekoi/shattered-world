@@ -1,32 +1,32 @@
 = The EivUnDoc-format =
 
-"EivUnDoc-format" stands for "Eivu's Universal Doccumentation -format" and
-it's the format of all of my text documents. The "Universal" here does not
-mean that I expect everyone to follow said format, but rather than in the
-context of my work it is the "universal" format of documentation. The format
-itself is made for plain text (.txt) of UTF-8 encoding. Thus it functions
-akin to markup languages by using special characters to format the text,
-however with the difference that where as markup languages can be converted
-to for example html, EivUnDoc-format is not made to be convertable to any
-other format. Thus I try to make the format itself as readable as possible
-in the pure form.
+"EivUnDoc-format" stands for "Eivu's  Universal Doccumentation -format" and
+it's the format of all of my  text documents. The "Universal" here does not
+mean that I expect  everyone to follow said format, but  rather than in the
+context  of my  work it  is the  "universal" format  of documentation.  The
+format itself  is made  for plain  text (.txt) of  UTF-8 encoding.  Thus it
+functions akin  to markup languages  by using special characters  to format
+the text, however with the difference that where as markup languages can be
+converted  to  for  example  html,   EivUnDoc-format  is  not  made  to  be
+convertable to any  other format. Thus I  try to make the  format itself as
+readable as possible in the pure form.
 
 
 == Headers ==
 
 Headers in EivUnDoc are rather simple. They are formed with text surrounded
-by =-symbols to indicate the header hierarchy. For example, a header like
-"= Example =" would be equivalent to a markdown "# Example" and a header
+by =-symbols to  indicate the header hierarchy. For example,  a header like
+"= Example ="  would be equivalent to  a markdown "# Example"  and a header
 like "== Example2 ==" would be equivalent to "## Example2".
     Headers are seperated from paragraphs with 2 and 1 empty lines. 2 empty
-lines come after the text before the header, and 1 empty line seperates
-the paragraph from it's corresponding headers.
+lines come after the text before the header, and 1 empty line seperates the
+paragraph from it's corresponding headers.
 
 
 == Paragraphs ==
 
-Paragraphs in EivUnDoc consist of 75-character long lines of unformatted
+Paragraphs in  EivUnDoc consist of  75-character long lines  of unformatted
 text. Lines are manually wrapped by word.
-    New paragraphs are indented by four spaces compared to the rest of the
-text. The four spaces are counted in the over all 75-character limit per
+    New paragraphs are indented by four  spaces compared to the rest of the
+text. The  four spaces are counted  in the over all  75-character limit per
 line. Thus all lines will contain a maximum of 75-characters.

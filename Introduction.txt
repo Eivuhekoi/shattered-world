@@ -1,26 +1,26 @@
 = Introduction =
 
 A Shattered World, alternatively known as Asénuve Nakapa or "AN", is a long
-time world-building project of mine that I have been working on and off on
-for almost four years. Throughout this time, the project has changed in
+time world-building project of mine that I  have been working on and off on
+for almost  four years. Throughout  this time,  the project has  changed in
 numerous ways. What originally began as an attempt at writing a short-story
 became a novel and as the ratio of work done on the world-building compared
 to the work done on the story itself began to lean heavily in the direction
-of the former, I decided to turn the project into a what it is now: A
+of the  former, I  decided to turn  the project  into a what  it is  now: A
 world-building project first. But what is "A Shattered World?"
 
 == What is "A Shattered World?" ==
 
 Shattered World is first and foremost the story of a world called "Nakapa",
-which through a single unfortunate event was sent into a chain of
-increasingly unfortunate events that eventually resulted in it becoming a
-barely habitable archipeligo of countless floating islands scattered
-throughout a dense, fog-lik substance that slowly breaks down and
-assimilates anything that stay in it for too long (bar a few expections).
-However, much of this is unknown to the inhabitants of Nakapa, for
-knowledge about the past has largely either been forgotten or purposefully
-destroyed in an attempted revenge against the "World-Breakers". Still for
-the ease of explanation I usually divide Nakapa's history into three
+which  through  a  single  unfortunate  event was  sent  into  a  chain  of
+increasingly unfortunate events  that eventually resulted in  it becoming a
+barely  habitable  archipeligo  of  countless  floating  islands  scattered
+throughout  a  dense,  fog-lik  substance   that  slowly  breaks  down  and
+assimilates anything that  stay in it for too long  (bar a few expections).
+However,  much  of this  is  unknown  to  the  inhabitants of  Nakapa,  for
+knowledge about the past has  largely either been forgotten or purposefully
+destroyed in an  attempted revenge against the  "World-Breakers". Still for
+the  ease of  explanation  I  usually divide  Nakapa's  history into  three
 distinct eras:
 
 1. Pre-Arrivial Nakapa (PAN)
@@ -33,28 +33,27 @@ distinct eras:
 
 == Plans for the project ==
 
-Currently the project is undergoing a major rework of sorts as over the
-years it has become rather bloated and disorganized. This isn't the first
-nor the last of reworks. As of writing this I am unsure even if this
-variant will be the one I decide on. So if you are reading this document,
+Currently the  project is undergoing  a major rework  of sorts as  over the
+years it has  become rather bloated and disorganized. This  isn't the first
+nor  the last  of reworks.  As of  writing this  I am  unsure even  if this
+variant will be the  one I decide on. So if you  are reading this document,
 then you know the answer to that question.
 
 = Plan for "Releases" =
 
-Currently there is no concrete schedule or plan for how "releases" of this
-project will be done. As of writing this I am still very much in the
+Currently there is no concrete schedule  or plan for how "releases" of this
+project  will be  done. As  of writing  this I  am still  very much  in the
 process of figuring things out. But I do have some ideas to it.
 
 == System of Major Releases ==
 
-The "System of Major Releases" -distribution model is mainly inspired by
-my love of both tabletop roleplaying games as well as MMORPGs. Both of
-these utilize a different, yet similar method of releasing large scale
-content updates. For example something like WoW and GW2 have their
-expansions and DnD and Pathfinder have their editions. Despite A Shattered
-World not being either of these, ttrpg of mmorpg, using this format could
-make sense in my opinion. In this case the "major releases" would be follow
-plan like this:
+The "System of Major Releases" -distribution model is mainly inspired by my
+love of both  tabletop roleplaying games as well as  MMORPGs. Both of these
+utilize a  different, yet similar  method of releasing large  scale content
+updates. For example  something like WoW and GW2 have  their expansions and
+DnD and Pathfinder have their editions. Despite A Shattered World not being
+either of these, ttrpg of mmorpg, using  this format could make sense in my
+opinion. In this case the "major releases" would be follow plan like this:
 
 1. I decide on a part of the world that needs to be worked on more.
 2. I work on said part.
@@ -62,32 +61,32 @@ plan like this:
    Release" of Shattered World.
 
 Unfortunately this system does have its downsides. These come mainly in the
-form that I suck at working on a schedule. Thus the time between releases
-would not be consistent, there might be a years worth of silence before I
+form that I suck  at working on a schedule. Thus  the time between releases
+would not be consistent,  there might be a years worth  of silence before I
 announce anything.
 
 == System of Routine Releases ==
 
-The "System of Routine Releases" is something of an opposite to the system
-described above. In this system I decide on a particular frequency of
-releases and make releases according to that no matter how unfinished,
-work-in-progress or disorganized the content is. As such this method WOULD
-result in more frequent updates, but would also subject people to the
+The "System of Routine Releases" is  something of an opposite to the system
+described  above. In  this system  I decide  on a  particular frequency  of
+releases  and make  releases according  to that  no matter  how unfinished,
+work-in-progress or disorganized the content  is. As such this method WOULD
+result  in more  frequent updates,  but would  also subject  people to  the
 disorganized mess that is my process of working on things. In the beginning
-this might be the better option, but as things become more worked on, a
+this might  be the better  option, but as things  become more worked  on, a
 transition to the System of Major Releases might make more sense.
 
 = Why the format? =
 
-I attempt to keep all my work as inexlusive to a particular format, device
-or other thing that may at some point become obselete. As of the time of
-writing this, the plain text format (.txt) is almost universally accepted
-and I do not expect it to change anytime soon, and as plain text doesn't
+I attempt to keep all my work  as inexlusive to a particular format, device
+or other thing  that may at some  point become obselete. As of  the time of
+writing this, the  plain text format (.txt) is  almost universally accepted
+and I do  not expect it to  change anytime soon, and as  plain text doesn't
 rely on formatting in anyway (not even the simple ways of markdown or other
-markup languages) no software for rendering such formats is needed. Thus
-the hope of utilizing plain text as my default format is that nobody
-will be unable to view the content regarless of the device they are using.
-Furthermore, I hope that the choice of utilizing local files instead of
+markup languages)  no software for  rendering such formats is  needed. Thus
+the hope of utilizing  plain text as my default format  is that nobody will
+be  unable to  view the  content regarless  of the  device they  are using.
+Furthermore, I  hope that the  choice of  utilizing local files  instead of
 something hosted on a website is able to circumvent difficulties in:
 
 1. getting a server to host it on,
@@ -97,12 +96,12 @@ something hosted on a website is able to circumvent difficulties in:
    connections. Thus if one has good enough of a connection to download the
    file, they can read it as they please.
 
-Unfortunately though, none of these listed potentials are guarenteed.
-Neither is that .txt (or the UTF-8 encoding) won't at some point in the
+Unfortunately  though,  none of  these  listed  potentials are  guarenteed.
+Neither is  that .txt (or  the UTF-8 encoding) won't  at some point  in the
 future become an obselete format.
 
 = License =
 
 Asénuve Nakapa (A Shattered World) © 2021 by Ikoinufe Eivuhekoi is licensed
-under Creative Commons Attribution-ShareAlike 4.0 International. To view a
+under Creative Commons Attribution-ShareAlike  4.0 International. To view a
 copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
