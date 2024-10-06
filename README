@@ -56,8 +56,17 @@ Unfortunately  though,  none of  these  listed  potentials are  guarenteed.
 Neither is  that .txt (or  the UTF-8 encoding) won't  at some point  in the
 future become an obselete format.
 
+
 = License =
+
+== World-building ==
 
 Asénuve Nakapa (A Shattered World) © 2021 by Ikoinufe Eivuhekoi is licensed
 under Creative Commons Attribution-ShareAlike  4.0 International. To view a
 copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
+
+== Programming/Code ==
+
+Any potential programs  I make as a  part of A Shattered  World is licensed
+under the Gnu General Public License  v3 or later, for more information see
+the 00-project-information/ directory.
