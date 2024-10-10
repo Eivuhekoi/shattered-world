@@ -1,0 +1,17 @@
+= Timekeeping in Nakapa =
+
+The most common  method of keeping tack  of time in the world  of Nakapa is
+the "New  Way", that  has largely  replaced the "Old  Way" used  before the
+Shattering, and is still being sued by some wanderers. In addition to these
+two  other species  have their  own ways.  These include  the Hollow-Folk's
+"Years after Arrival", which has been in use for a long time, the Factorian
+"Cycles", and the Majak "Days of Liberation".
+
+
+== Old Way ==
+
+The old way  was the system of  timekeeping used by during the  rule of the
+wanderish empire  and the following  Okánet, though in said  transition the
+the number of years that had passed was set back to 0, thus the Old Way can
+be further subdivided  into the Okánet and Imperial time.  However, as only
+the number of years is different, they are largely interchangeable.
