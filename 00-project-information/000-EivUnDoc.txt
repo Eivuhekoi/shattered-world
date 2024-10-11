@@ -26,7 +26,7 @@ paragraph from it's corresponding headers.
 == Paragraphs ==
 
 Paragraphs in  EivUnDoc consist of  75-character long lines  of unformatted
-text. Lines are manually wrapped by word.
+text. Lines are wrapped by word.
     New paragraphs are indented by four  spaces compared to the rest of the
 text. The  four spaces are counted  in the over all  75-character limit per
 line. Thus all lines will contain a maximum of 75-characters.
@@ -39,9 +39,9 @@ section. This section is seperated from  the main text by a line consisting
 of 15 groups of 4 dashes, seperated  by spaces. As seen in the example line
 below:
 
--- example footer --
+    -- example footer --
 ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ----
--- exmaple footer --
+    -- example footer --
 
     In the header section, extra information about related documents can be
 included. However, any information that would  be relavent to the main text
