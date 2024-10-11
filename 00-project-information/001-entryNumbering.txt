@@ -1,0 +1,24 @@
+= Entry numbers =
+
+As this  project is  split into  various different  documents, a  method of
+organization is a necessity. I have  decided to employ a document numbering
+system for this, which you can most likely rather clearly see.
+    The  project root  directory consists  of subdirectories  named with  a
+prefix number, follower  by an english word describing the  category of the
+document. The files  in the directories are named in  a similar manner, but
+instead of two numbers, there are three. The first two numbers are the same
+as  the numbers  of its  directory, while  the last  is an  ordering number
+within the directory itself.
+
+    -- directory name examples --
+00-project-information/001-entryNumbering.txt
+60-concepts/600-time.txt
+    -- directory name examples --
+
+    The numbers  themselves also  indicate the  category of  the directory.
+however as  this is not as  intuitive as just using  English, numbers alone
+are not  used expect  in the  case of  refering to  related documents  in a
+document's footer section. I have chosen to use numbers there as within the
+scop of this project, these numbers act  like the url of a website and just
+using  the number  gives the  location of  the document  while keeping  the
+footer section more concise.
