@@ -2,11 +2,13 @@
 |-----------------------+-------------------+-------------------|
 | Age of sorrow         | [NOT APPLICABLE]  | isékejat          |
 | Guard                 | kjel              | kjelan            |
-| Hand of the Ashtree   | Moitatvife Kjel   | Moitatvife kjelan |
-| Order                 | Heléje            | Hele              |
-| Order of Saviours     | Heljé             | Heljéna           |
-| Order of the Ashtree  | Moitatvife heléje | [NOT APPLICABLE]  |
-| Clergy of the Ashtree | Moitatvife okánet | [NOT APPLICABLE]  |
-| Devout                | Okála             | Okallai           |
-| Ordinary              | Astei             | asteí             |
+| Hand of the Ashtree   | moitatvife Kjel   | moitatvife kjelan |
+| Order                 | heléje            | hele              |
+| Order of Saviours     | heljé             | heljéna           |
+| Order of the Ashtree  | moitatvife heléje | [NOT APPLICABLE]  |
+| Clergy of the Ashtree | moitatvife okánet | [NOT APPLICABLE]  |
+| Devout                | okála             | okallai           |
+| Ordinary              | astei             | asteí             |
 | person                | kap               | kat               |
+| shaper, creator       | ekanait           | ekná              |
+| Puje                  | eknást            | [NOT APPLICABLE]  |
